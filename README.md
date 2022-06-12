@@ -3,8 +3,14 @@
 ## Overview
  Dana is a huge sci-fi fan. She loves everything about UFOs. She has a website that lists out UFO sightings. She reached out and asked for my help to create a more in-depth website. She wanted to give her viewers more details about each siting. This way the views can become more knowledgable. Dana hopes this will create a more credible website for research purposes.
  
- 
- ![Nasa UFO](https://github.com/LindsayTeeters/Week-11/blob/main/Static/Images/NASA%20UFO.jpg) 
+ <p align="center">
+ <Img 
+      width="300"
+      Height="300"
+      
+ src='https://github.com/LindsayTeeters/Week-11/blob/main/Static/Images/NASA%20UFO.jpg'
+ >
+  </p>  
 <i>...............................Do you Believe?...............................</i>
  
 ## Results
