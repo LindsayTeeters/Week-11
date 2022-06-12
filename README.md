@@ -14,4 +14,6 @@
 ![Table and filter](https://github.com/LindsayTeeters/Week-11/blob/main/Static/Images/Table%20and%20Filter.png)
 
   
- 
+  ## Summary
+  
+ The updates that have been made to the site have been helpful; however, they are not perfect. This site is connected to javascript data table. If new sightings are added, we would need to manually add the new sightings to our data table. It would be helpful to connected it to an open source document that can be updated as new sightings come in. THis way the website would update when its refreshed with new data. This would be a simple fix if Dana wishes to proceed in this direction. Another item that would be helpful to add for spotters to have available would be pictures of each siting, if available. Incorpoarating a visual is always helpful. Another helpful detial to add to this table would the number of times UFOs have been spotted at the locations. It can currently be captured by filtering on counting each time it shows up wihtin the filtered table. 
